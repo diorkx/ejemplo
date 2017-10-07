@@ -1,1 +1,2 @@
-# ejemplo
+# DIEGO MAURICIO RODRIGUEZ CARRILLO - 20171094022
+Sesión de trabajo 1 seminario SGI 3D 07/10/2017 
